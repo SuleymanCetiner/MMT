@@ -3,7 +3,7 @@
 This is how you train your neural network for classification in Matlab.
 
 First of all,we use Covid - 19 Xray Images dataset to handle.Then,we do transfer learning.
-As you know,transfer learning is a little bit advanced method that freezes base model and just changing the last of some layers.
+As you know,transfer learning is a little bit advanced method that freezes base model and just changing the last parts of some layers.
 
 
 Dataset can be found at https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
